@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sp2vt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @sp2vtliliano  almeida
+- 👀 I’m interested in ...aprender hithub
+- 🌱 I’m currently learning ...fase inicila hithub
+- 💞️ I’m looking to collaborate on ...hithub
+- 📫 How to reach me ...almeidaliliano606@gmail.com
 
 <!---
 sp2vt/sp2vt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
